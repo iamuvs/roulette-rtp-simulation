@@ -38,8 +38,8 @@ The gap is explained by variance, not a bug: a single-number bet only wins ~1 in
 
 At low spin counts, actual RTP swings wildly in either direction. By 100,000+ spins, the deviation narrows to well under half a percentage point, consistent with the law of large numbers — though convergence is not perfectly monotonic even at 5,000,000 spins, since variance never fully disappears, only shrinks.
 
-![Bankroll over time](bankroll_chart.png)
-![RTP convergence](convergence_chart.png)
+![Bankroll over time](bankroll_chart.PNG)
+![RTP convergence](convergence_chart.PNG)
 
 ## Debugging Notes
 
